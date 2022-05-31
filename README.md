@@ -1,5 +1,5 @@
 # Heroes
 ## Integrantes
 - Nahiara Salinas
-- Joaquin Acosta
+- Joaquin Acosta, edad: 22, ciudad de residencia: La Matanza
 - Facundo Arevalos
